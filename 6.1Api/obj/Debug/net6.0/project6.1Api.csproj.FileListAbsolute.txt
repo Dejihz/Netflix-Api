@@ -1,0 +1,933 @@
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\source\repos\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\GitHub\Project-6.1\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\Gebruiker\Documents\GitHub\Project 6.1 Resit\project6.1Api\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project61Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.csproj.CopyComplete
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1Api - Copy\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\Downloads\AppWithAPI\AppWithAPI\project6.1ApiR\obj\Debug\net6.0\project6.BACBFB25.Up2Date
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\g3k01\Documents\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.BACBFB25.Up2Date
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\Documents\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\appsettings.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Schemas\schemaValidation.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\project6.1Api.exe
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\project6.1Api.deps.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\project6.1Api.runtimeconfig.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.AssemblyReference.cache
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfoInputs.cache
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.AssemblyInfo.cs
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.sourcelink.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.project6.1Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.build.project6.1Api.props
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project6.1Api.props
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project6.1Api.props
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\scopedcss\bundle\project6.1Api.styles.css
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.BACBFB25.Up2Date
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\refint\project6.1Api.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.pdb
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\project6.1Api.genruntimeconfig.cache
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\obj\Debug\net6.0\ref\project6.1Api.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\g3k01\OneDrive\Documenten\GitHub\project-6.1-resit\project6.1Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
