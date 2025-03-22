@@ -17,8 +17,39 @@
       {
         "Type": "project6._1Api.Entities.LoginResponse",
         "MediaTypes": [
+          "text/plain",
           "application/json",
-          "application/xml"
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LoginController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Login/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "project6._1Api.Model.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "project6._1Api.Entities.LoginResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 200
       }

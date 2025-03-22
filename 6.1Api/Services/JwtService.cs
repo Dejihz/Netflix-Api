@@ -23,16 +23,45 @@ public class JwtService
             return null;
 
         var userAccount = _dbContext.User.FirstOrDefault(x => x.Username == request.Username);
-        if (userAccount is null || userAccount.Password != HashString(request.Password))
+        if (userAccount == null || string.IsNullOrEmpty(userAccount.Password) || userAccount.Password != HashString(request.Password))
             return null;
 
-        var token = GenerateToken(userAccount.Username);
+        var accessToken = GenerateToken(userAccount.Username);
+        var refreshToken = GenerateRefreshToken();
+
+        userAccount.RefreshToken = refreshToken;
+        userAccount.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(_configuration.GetValue<int>("JwtConfig:RefreshTokenValidityDays"));
+        await _dbContext.SaveChangesAsync();
 
         return new LoginResponse
         {
-            AccessToken = token,
+            AccessToken = accessToken,
+            RefreshToken = refreshToken,
             Username = userAccount.Username,
-            ExpiresIn = 30 * 60 // 30 minutes
+            ExpiresIn = 30* 60
+        };
+    }
+
+    public async Task<LoginResponse?> RefreshToken(string refreshToken)
+    {
+        var userAccount = _dbContext.User.FirstOrDefault(x => x.RefreshToken == refreshToken);
+
+        if (userAccount is null || userAccount.RefreshTokenExpiryTime <= DateTime.UtcNow)
+            return null;
+
+        var accessToken = GenerateToken(userAccount.Username);
+        var newRefreshToken = GenerateRefreshToken();
+
+        userAccount.RefreshToken = newRefreshToken;
+        userAccount.RefreshTokenExpiryTime = DateTime.UtcNow.AddDays(_configuration.GetValue<int>("JwtConfig:RefreshTokenValidityDays"));
+        _dbContext.SaveChanges();
+
+        return new LoginResponse
+        {
+            AccessToken = accessToken,
+            RefreshToken = newRefreshToken,
+            Username = userAccount.Username,
+            ExpiresIn = 30 * 60
         };
     }
 
@@ -51,11 +80,21 @@ public class JwtService
             issuer: _configuration["JwtConfig:Issuer"],
             audience: _configuration["JwtConfig:Audience"],
             claims: claims,
-            expires: DateTime.UtcNow.AddMinutes(30),
+            expires: DateTime.UtcNow.AddMinutes(1800),
             signingCredentials: credentials
         );
 
         return new JwtSecurityTokenHandler().WriteToken(token);
+    }
+
+    private string GenerateRefreshToken()
+    {
+        var randomNumber = new byte[32];
+        using (var rng = RandomNumberGenerator.Create())
+        {
+            rng.GetBytes(randomNumber);
+            return Convert.ToBase64String(randomNumber);
+        }
     }
 
     public static string HashString(string input)

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using project6._1Api.Model;
 using System.Reflection.Metadata;
 
 namespace project6._1Api.Entities
@@ -15,8 +16,17 @@ namespace project6._1Api.Entities
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Transactions>()
-                .ToTable(tb => tb.HasTrigger("CreateLog"));
+            //modelBuilder.Entity<Transactions>()
+            //    .ToTable(tb => tb.HasTrigger("CreateLog"));
+
+            modelBuilder.Entity<Users>(entity =>
+            {
+                entity.HasKey(u => u.Id);
+                entity.Property(u => u.Username).IsRequired();
+                entity.Property(u => u.Password).IsRequired();
+                entity.Property(u => u.RefreshToken).IsRequired(false); // Optional
+                entity.Property(u => u.RefreshTokenExpiryTime).IsRequired(false); // Optional
+            });
         }
     }
 }

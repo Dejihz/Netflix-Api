@@ -6,8 +6,6 @@ using project6._1Api.Model;
 [Route("api/[controller]")]
 [ApiController]
 [AllowAnonymous]
-[Produces("application/json", "application/xml")]
-[Consumes("application/json", "application/xml")]
 public class LoginController : ControllerBase
 {
     private readonly JwtService _jwtService;
@@ -19,9 +17,17 @@ public class LoginController : ControllerBase
     {
         var result = await _jwtService.Authenticate(request);
         if (result is null)
-        {
             return Unauthorized();
-        }
+
+        return Ok(result);
+    }
+
+    [HttpPost("refresh-token")]
+    public async Task<ActionResult<LoginResponse>> RefreshToken([FromBody] RefreshTokenRequest request)
+    {
+        var result = await _jwtService.RefreshToken(request.RefreshToken);
+        if (result is null)
+            return Unauthorized();
 
         return Ok(result);
     }

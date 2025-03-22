@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics.CodeAnalysis;
 using System.Xml.Serialization;
 
 namespace project6._1Api.Model
@@ -22,5 +23,13 @@ namespace project6._1Api.Model
         [XmlElement(ElementName = "level")]
         [AllowedValues("superuser", "admin", "guest")]
         public string level { get; set; }
+
+        /*[AllowNull]
+        [XmlElement(ElementName = "refreshToken")]
+        public string refreshToken { get; set; }
+
+        [AllowNull]
+        [XmlElement(ElementName = "refreshTokenExpiryTime")]
+        public DateTime refreshTokenExpiryTime { get; set; }*/
     }
 }
