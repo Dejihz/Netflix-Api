@@ -44,12 +44,15 @@ namespace project6._1Api.Controllers
         public IActionResult GetAll()
         {
             var users = _dbContext.User
-                .Select(u => new User
+                .Select(u => new Model.User
                 {
-                    id = u.Id,
-                    username = u.Username,
+                    user_id = u.User_id,
+                    email = u.Email,
                     password = u.Password,
-                    level = u.Level
+                    account_status = u.Account_status,
+                    subscription_id = u.Subscription_id,
+                    role_id = u.Role_id,
+                    referred_by = u.Referred_by,
                 })
                 .ToList();
 
@@ -67,16 +70,23 @@ namespace project6._1Api.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            Entities.Users entityUser = _dbContext.User.FirstOrDefault(u => u.Id == id);
+            Entities.Users entityUser = _dbContext.User.FirstOrDefault(u => u.User_id == id);
 
             if (entityUser != null)
             {
                 Model.User modelUser = new Model.User
                 {
-                    id = entityUser.Id,
-                    username = entityUser.Username,
+                    user_id = entityUser.User_id,
+                    //username = entityUser.Username,
+                    //password = entityUser.Password,
+                    //level = entityUser.Level
+
+                    email = entityUser.Email,
                     password = entityUser.Password,
-                    level = entityUser.Level
+                    account_status = entityUser.Account_status,
+                    subscription_id = entityUser.Subscription_id,
+                    role_id = entityUser.Role_id,
+                    referred_by = entityUser.Referred_by
                 };
 
                 return Ok(modelUser);
@@ -95,9 +105,12 @@ namespace project6._1Api.Controllers
             {
                 Entities.Users newUser = new Entities.Users()
                 {
-                    Username = userModel.username,
-                    Password = userModel.password,
-                    Level = userModel.level
+                    Email = userModel.email,
+                    Password = HashString(userModel.password),
+                    Account_status = userModel.account_status,
+                    Subscription_id = userModel.subscription_id,
+                    Role_id = userModel.role_id,
+                    Referred_by = userModel.referred_by,
                 };
 
                 _dbContext.User.Add(newUser); 
@@ -108,11 +121,10 @@ namespace project6._1Api.Controllers
                 }
                 catch (DbUpdateException ex) when (ex.InnerException is SqlException sqlEx && sqlEx.Number == 2627)
                 {
-                    return StatusCode(406, $"Username '{userModel.username}' already exists.");
+                    return StatusCode(406, $"Email '{userModel.email}' already exists.");
                 }
                 catch (DbUpdateException ex)
                 {
-                    // Handle other database update exceptions
                     return StatusCode(500, "Error creating user. Please try again later.");
                 }
             }
@@ -129,13 +141,17 @@ namespace project6._1Api.Controllers
         {
             if (ModelState.IsValid)
             {
-                Entities.Users existingUser = _dbContext.User.FirstOrDefault(u => u.Id == id);
+                Entities.Users existingUser = _dbContext.User.FirstOrDefault(u => u.User_id == id);
 
                 if (existingUser != null)
                 {
-                    existingUser.Username = userModel.username;
-                    existingUser.Password = userModel.password;
-                    existingUser.Level = userModel.level;
+                    existingUser.Email = userModel.email;
+                    existingUser.Password = HashString(userModel.password);
+                    existingUser.Account_status = userModel.account_status;
+                    existingUser.Subscription_id = userModel.subscription_id;
+                    existingUser.Role_id = userModel.role_id;
+                    existingUser.Referred_by = userModel.referred_by;
+
 
                     _dbContext.SaveChanges();
 
@@ -156,8 +172,9 @@ namespace project6._1Api.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            db.DeleteUser(id);
-            Entities.Users user = _dbContext.User.FirstOrDefault(u => u.Id == id);
+            //db.DeleteUser(id);
+            
+            Entities.Users user = _dbContext.User.FirstOrDefault(u => u.User_id == id);
 
             if (user != null)
             {
@@ -168,6 +185,16 @@ namespace project6._1Api.Controllers
             else
             {
                 return NotFound();
+            }
+        }
+
+        public static string HashString(string input)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] inputBytes = Encoding.UTF8.GetBytes(input);
+                byte[] hashBytes = sha256.ComputeHash(inputBytes);
+                return Convert.ToBase64String(hashBytes);
             }
         }
     }

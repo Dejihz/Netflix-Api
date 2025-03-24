@@ -56,6 +56,85 @@
     ]
   },
   {
+    "ContainingType": "project6._1Api.Controllers.SubscriptionController",
+    "Method": "GetAll",
+    "RelativePath": "api/Subscription",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubscriptionController",
+    "Method": "Create",
+    "RelativePath": "api/Subscription",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionModel",
+        "Type": "project6._1Api.Model.Subscription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubscriptionController",
+    "Method": "GetById",
+    "RelativePath": "api/Subscription/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubscriptionController",
+    "Method": "Update",
+    "RelativePath": "api/Subscription/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionModel",
+        "Type": "project6._1Api.Model.Subscription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubscriptionController",
+    "Method": "Delete",
+    "RelativePath": "api/Subscription/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "project6._1Api.Controllers.TransactionController",
     "Method": "GetAll",
     "RelativePath": "api/Transaction",

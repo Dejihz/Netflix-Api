@@ -11,11 +11,14 @@ namespace project6._1Api.Entities
         {
 
         }
-
-        public int Id { get; set; }
-        public string Username { get; set; }
+        [Key]
+        public int User_id { get; set; }
+        public string Email { get; set; }
         public string Password { get; set; }
-        public string Level { get; set; }
+        public string Account_status { get; set; }
+        public int? Subscription_id { get; set; }
+        public int? Role_id { get; set; }
+        public int? Referred_by { get; set; }
         public string? RefreshToken { get; set; }
 
         public DateTime? RefreshTokenExpiryTime { get; set; }

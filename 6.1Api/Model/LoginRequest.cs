@@ -7,10 +7,10 @@ namespace project6._1Api.Model
     public class LoginRequest
     {
         [Required]
-        [XmlElement(ElementName = "username")]
-        public string? Username { get; set; }
+        [XmlElement(ElementName = "email")]
+        public string Email { get; set; }
         [Required]
         [XmlElement(ElementName = "password")]
-        public string? Password { get; set; }
+        public string Password { get; set; }
     }
 }

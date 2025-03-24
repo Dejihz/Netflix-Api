@@ -9,20 +9,29 @@ namespace project6._1Api.Model
     {
         [Key]
         [XmlElement(ElementName = "id")]
-        public int id { get; set; }
+        public int user_id { get; set; }
 
         [Required]
-        [XmlElement(ElementName = "username")]
-        public string username { get; set; }
+        [XmlElement(ElementName = "email")]
+        public string email { get; set; }
 
         [Required]
         [XmlElement(ElementName = "password")]
         public string password { get; set; }
 
         [Required]
-        [XmlElement(ElementName = "level")]
-        [AllowedValues("superuser", "admin", "guest")]
-        public string level { get; set; }
+        [XmlElement(ElementName = "accountStatus")]
+        [AllowedValues("active", "inactive", "suspended")]
+        public string account_status { get; set; }
+
+        [XmlElement(ElementName = "subscriptionId")]
+        public int? subscription_id { get; set; }
+
+        [XmlElement(ElementName = "roleId")]
+        public int? role_id { get; set; }
+
+        [XmlElement(ElementName = "referredBy")]
+        public int? referred_by { get; set; }
 
         /*[AllowNull]
         [XmlElement(ElementName = "refreshToken")]

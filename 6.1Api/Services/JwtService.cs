@@ -19,14 +19,14 @@ public class JwtService
 
     public async Task<LoginResponse?> Authenticate(LoginRequest request)
     {
-        if (string.IsNullOrWhiteSpace(request.Username) || string.IsNullOrWhiteSpace(request.Password))
+        if (string.IsNullOrWhiteSpace(request.Email) || string.IsNullOrWhiteSpace(request.Password))
             return null;
 
-        var userAccount = _dbContext.User.FirstOrDefault(x => x.Username == request.Username);
+        var userAccount = _dbContext.User.FirstOrDefault(x => x.Email == request.Email);
         if (userAccount == null || string.IsNullOrEmpty(userAccount.Password) || userAccount.Password != HashString(request.Password))
             return null;
 
-        var accessToken = GenerateToken(userAccount.Username);
+        var accessToken = GenerateToken(userAccount.Email);
         var refreshToken = GenerateRefreshToken();
 
         userAccount.RefreshToken = refreshToken;
@@ -37,7 +37,7 @@ public class JwtService
         {
             AccessToken = accessToken,
             RefreshToken = refreshToken,
-            Username = userAccount.Username,
+            Email = userAccount.Email,
             ExpiresIn = 30* 60
         };
     }
@@ -49,7 +49,7 @@ public class JwtService
         if (userAccount is null || userAccount.RefreshTokenExpiryTime <= DateTime.UtcNow)
             return null;
 
-        var accessToken = GenerateToken(userAccount.Username);
+        var accessToken = GenerateToken(userAccount.Email);
         var newRefreshToken = GenerateRefreshToken();
 
         userAccount.RefreshToken = newRefreshToken;
@@ -60,19 +60,19 @@ public class JwtService
         {
             AccessToken = accessToken,
             RefreshToken = newRefreshToken,
-            Username = userAccount.Username,
+            Email = userAccount.Email,
             ExpiresIn = 30 * 60
         };
     }
 
-    private string GenerateToken(string username)
+    private string GenerateToken(string email)
     {
         var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JwtConfig:Key"]));
         var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
         var claims = new[]
         {
-            new Claim(JwtRegisteredClaimNames.Sub, username),
+            new Claim(JwtRegisteredClaimNames.Sub, email),
             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
         };
 

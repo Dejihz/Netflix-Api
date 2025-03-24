@@ -1,46 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\6.1Api\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\6.1Apis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\model\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:model\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\entities\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,132 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:27:53.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Services\\JwtService.cs",
-              "RelativeToolTip": "Services\\JwtService.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFIAAAA2AAAAAAAAAA==",
+              "Title": "db.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\db.cs",
+              "RelativeDocumentMoniker": "db.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\db.cs",
+              "RelativeToolTip": "db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:49:57.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Entities\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "Entities\\LoginResponse.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Entities\\LoginResponse.cs",
-              "RelativeToolTip": "Entities\\LoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:32:10.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RefreshTokenRequest.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Model\\RefreshTokenRequest.cs",
-              "RelativeDocumentMoniker": "Model\\RefreshTokenRequest.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Model\\RefreshTokenRequest.cs",
-              "RelativeToolTip": "Model\\RefreshTokenRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T17:48:19.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Controllers\\TransactionController.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAgwNEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:28:09.599Z",
+              "WhenOpened": "2025-03-23T21:11:52.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Model\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Model\\LoginRequest.cs",
-              "RelativeToolTip": "Model\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Title": "databaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
+              "RelativeDocumentMoniker": "Entities\\databaseContext.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
+              "RelativeToolTip": "Entities\\databaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:00:18.128Z",
+              "WhenOpened": "2025-03-23T21:11:15.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-21T18:12:55.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Controllers\\UserController.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwGgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:28:08.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Entities\\Users.cs",
-              "RelativeToolTip": "Entities\\Users.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:00:09.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:04:37.317Z",
+              "WhenOpened": "2025-03-23T20:18:17.387Z",
               "EditorCaption": ""
             }
           ]

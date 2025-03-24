@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "Subscription": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "subscription_id": {
+                    "type": "integer"
+                },
+                "plan_type": {
+                    "enum": [ "trial", "standard", "family" ],
+                    "maxLength": 10
+                },
+                "price": {
+                    "type": "number"
+                },
+                "validity_period": {
+                    "enum": [ "1 month", "1 year", "lifetime" ],
+                    "maxLength": 20
+                }
+            },
+            "required": [
+                "plan_type",
+                "price",
+                "validity_period"
+            ],
+            "title": "Subscription"
+        }
+    }
+}
