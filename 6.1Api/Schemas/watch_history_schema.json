@@ -1,0 +1,40 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "WatchHistory": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "history_id": {
+                    "type": "integer"
+                },
+                "profile_id": {
+                    "type": "integer"
+                },
+                "content_id": {
+                    "type": "integer"
+                },
+                "watch_date": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "watch_duration": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 86400
+                },
+                "completed": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "profile_id",
+                "content_id",
+                "watch_date",
+                "watch_duration",
+                "completed"
+            ],
+            "title": "WatchHistory"
+        }
+    }
+}

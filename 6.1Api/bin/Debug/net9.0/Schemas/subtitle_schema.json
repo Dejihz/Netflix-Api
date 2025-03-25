@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "Subtitle": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "subtitle_id": {
+                    "type": "integer"
+                },
+                "content_id": {
+                    "type": "integer"
+                },
+                "language": {
+                    "type": "string",
+                    "maxLength": 20
+                }
+            },
+            "required": [
+                "content_id",
+                "language"
+            ],
+            "title": "Subtitle"
+        }
+    }
+}

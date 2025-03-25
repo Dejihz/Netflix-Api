@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "WatchList": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "watchlist_id": {
+                    "type": "integer"
+                },
+                "profile_id": {
+                    "type": "integer"
+                },
+                "content_id": {
+                    "type": "integer"
+                },
+                "added_date": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "required": [
+                "profile_id",
+                "content_id",
+                "added_date"
+            ],
+            "title": "WatchList"
+        }
+    }
+}

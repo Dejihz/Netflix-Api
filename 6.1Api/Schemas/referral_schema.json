@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "Referral": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "referrerUserId": {
+                    "type": "integer"
+                },
+                "referredUserId": {
+                    "type": "integer"
+                },
+                "discountApplied": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "required": [
+                "id",
+                "referrerUserId",
+                "referredUserId"
+            ],
+            "title": "Referral"
+        }
+    }
+}

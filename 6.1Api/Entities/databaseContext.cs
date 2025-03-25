@@ -1,5 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿    using Microsoft.EntityFrameworkCore;
 using project6._1Api.Model;
+using System.Data;
 using System.Reflection.Metadata;
 
 namespace project6._1Api.Entities
@@ -13,12 +14,218 @@ namespace project6._1Api.Entities
 
         public DbSet<Transactions> Transaction { get; set; }
         public DbSet<Users> User { get; set; }
-        public DbSet<Subscriptions> Subscription { get; set; } 
+        public DbSet<Subscriptions> Subscription { get; set; }
+        public DbSet<Roles> Role { get; set; }
+        public DbSet<Referrals> Referral { get; set; }
+        public  DbSet<Profiles> Profile { get; set; }
+        public  DbSet<Preferences> Preferences { get; set; }
+        public DbSet<ProfileGenrePreferences> ProfileGenrePreference { get; set; }
+        public DbSet<Contents> Content { get; set; }
+        public DbSet<Films> Film { get; set; }
+        public DbSet<Series> Series { get; set; }
+        public DbSet<Episodes> Episode { get; set; }
+        public DbSet<Genres> Genre { get; set; }
+        public DbSet<WatchLists> WatchList { get; set; }
+        public DbSet<WatchHistories> WatchHistory { get; set; }
+        public DbSet<Subtitles> Subtitles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //modelBuilder.Entity<Transactions>()
             //    .ToTable(tb => tb.HasTrigger("CreateLog"));
+            // User configuration
+
+            modelBuilder.Entity<Users>(entity =>
+            {
+                entity.HasKey(e => e.User_id);
+                entity.Property(e => e.Email).HasMaxLength(100).IsRequired();
+                entity.Property(e => e.Password).HasMaxLength(255).IsRequired();
+                entity.Property(e => e.Account_status).HasMaxLength(20).IsRequired();
+
+                entity.HasOne<Subscriptions>()
+                    .WithMany()
+                    .HasForeignKey(u => u.Subscription_id)
+                    .OnDelete(DeleteBehavior.SetNull);
+
+                entity.HasOne<Roles>()
+                    .WithMany()
+                    .HasForeignKey(u => u.Role_id)
+                    .OnDelete(DeleteBehavior.SetNull);
+
+                entity.HasOne<Users>()
+                    .WithMany()
+                    .HasForeignKey(u => u.Referred_by)
+                    .OnDelete(DeleteBehavior.SetNull);
+            });
+
+            // Profile configuration
+            modelBuilder.Entity<Profiles>(entity =>
+            {
+                entity.HasKey(e => e.Profile_id);
+                entity.Property(e => e.Name).HasMaxLength(50).IsRequired();
+                entity.Property(e => e.Profile_photo).HasMaxLength(255);
+                entity.Property(e => e.Language).HasMaxLength(20).HasDefaultValue("English");
+
+                entity.HasOne<Users>()
+                    .WithMany()
+                    .HasForeignKey(p => p.User_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Preferences configuration
+            modelBuilder.Entity<Preferences>(entity =>
+            {
+                entity.HasKey(e => e.Preferences_id);
+                entity.Property(e => e.Content_restrictions).HasColumnType("text");
+
+                entity.HasOne<Profiles>()
+                    .WithMany()
+                    .HasForeignKey(p => p.Profile_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Content configuration
+            modelBuilder.Entity<Contents>(entity =>
+            {
+                entity.HasKey(e => e.Content_id);
+                entity.Property(e => e.Title).HasMaxLength(100).IsRequired();
+                entity.Property(e => e.Quality).HasMaxLength(10);
+                entity.Property(e => e.Classification).HasMaxLength(50);
+            });
+
+            // Film configuration (inherits from Content)
+            modelBuilder.Entity<Films>(entity =>
+            {
+                entity.HasKey(e => e.Film_id);
+
+                entity.HasOne<Contents>()
+                    .WithOne()
+                    .HasForeignKey<Films>(f => f.Content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Series configuration (inherits from Content)
+            modelBuilder.Entity<Series>(entity =>
+            {
+                entity.HasKey(e => e.Series_id);
+
+                entity.HasOne<Contents>()
+                    .WithOne()
+                    .HasForeignKey<Series>(s => s.Content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Episode configuration
+            modelBuilder.Entity<Episodes>(entity =>
+            {
+                entity.HasKey(e => e.Episode_id);
+                entity.Property(e => e.Title).HasMaxLength(100).IsRequired();
+
+                entity.HasOne<Series>()
+                    .WithMany()
+                    .HasForeignKey(e => e.Series_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Genre configuration
+            modelBuilder.Entity<Genres>(entity =>
+            {
+                entity.HasKey(e => e.Genre_id);
+                entity.Property(e => e.Genre_name).HasMaxLength(50).IsRequired();
+            });
+
+            // Profile-Genre many-to-many
+            modelBuilder.Entity<ProfileGenrePreferences>(entity =>
+            {
+                entity.HasKey(pg => new { pg.Profile_id, pg.Genre_id });
+
+                entity.HasOne<Profiles>()
+                    .WithMany()
+                    .HasForeignKey(pg => pg.Profile_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne<Genres>()
+                    .WithMany()
+                    .HasForeignKey(pg => pg.Genre_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // WatchList configuration
+            modelBuilder.Entity<WatchLists>(entity =>
+            {
+                entity.HasKey(e => e.Watchlist_id);
+
+                entity.HasOne<Profiles>()
+                    .WithMany()
+                    .HasForeignKey(w => w.Profile_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne<Contents>()
+                    .WithMany()
+                    .HasForeignKey(w => w.Content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // WatchHistory configuration
+            modelBuilder.Entity<WatchHistories>(entity =>
+            {
+                entity.HasKey(e => e.History_id);
+
+                entity.HasOne<Profiles>()
+                    .WithMany()
+                    .HasForeignKey(w => w.Profile_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne<Contents>()
+                    .WithMany()
+                    .HasForeignKey(w => w.Content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Subtitle configuration
+            modelBuilder.Entity<Subtitles>(entity =>
+            {
+                entity.HasKey(e => e.Subtitle_id);
+                entity.Property(e => e.Language).HasMaxLength(20).IsRequired();
+
+                entity.HasOne<Contents>()
+                    .WithMany()
+                    .HasForeignKey(s => s.Content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
+            // Subscription configuration
+            modelBuilder.Entity<Subscriptions>(entity =>
+            {
+                entity.HasKey(e => e.Subscription_id);
+                entity.Property(e => e.Plan_type).HasMaxLength(10).IsRequired();
+                entity.Property(e => e.Validity_period).HasMaxLength(20).IsRequired();
+            });
+
+            // Role configuration
+            modelBuilder.Entity<Roles>(entity =>
+            {
+                entity.HasKey(e => e.Role_id);
+                entity.Property(e => e.Role_name).HasMaxLength(20).IsRequired();
+                entity.Property(e => e.Permissions).HasColumnType("text").IsRequired();
+            });
+
+            // Referral configuration
+            modelBuilder.Entity<Referrals>(entity =>
+            {
+                entity.HasKey(e => e.Referral_id);
+                entity.Property(e => e.Discount_applied).HasDefaultValue(false);
+
+                entity.HasOne<Users>()
+                    .WithMany()
+                    .HasForeignKey(r => r.Referrer_user_id)
+                    .OnDelete(DeleteBehavior.NoAction);
+
+                entity.HasOne<Users>()
+                    .WithMany()
+                    .HasForeignKey(r => r.Referred_user_id)
+                    .OnDelete(DeleteBehavior.NoAction);
+            });
 
             modelBuilder.Entity<Users>(entity =>
             {
