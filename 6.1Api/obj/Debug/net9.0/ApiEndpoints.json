@@ -64,6 +64,64 @@
   },
   {
     "ContainingType": "ContentController",
+    "Method": "GetContentGenres",
+    "RelativePath": "api/Content/{contentId}/Genres",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentController",
+    "Method": "AssignGenreToContent",
+    "RelativePath": "api/Content/{contentId}/Genres/{genreId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "genreId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentController",
+    "Method": "RemoveGenreFromContent",
+    "RelativePath": "api/Content/{contentId}/Genres/{genreId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "genreId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentController",
     "Method": "GetById",
     "RelativePath": "api/Content/{id}",
     "HttpMethod": "GET",
@@ -103,6 +161,48 @@
     "ContainingType": "ContentController",
     "Method": "Delete",
     "RelativePath": "api/Content/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GenreController",
+    "Method": "GetAll",
+    "RelativePath": "api/Genre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GenreController",
+    "Method": "Create",
+    "RelativePath": "api/Genre",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genreModel",
+        "Type": "project6._1Api.Model.Genre",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GenreController",
+    "Method": "Delete",
+    "RelativePath": "api/Genre/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -573,6 +673,75 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "project6._1Api.Controllers.SubtitleController",
+    "Method": "Create",
+    "RelativePath": "api/Subtitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subtitleModel",
+        "Type": "project6._1Api.Model.Subtitles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubtitleController",
+    "Method": "GetByContent",
+    "RelativePath": "api/Subtitle/{contentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubtitleController",
+    "Method": "Update",
+    "RelativePath": "api/Subtitle/{subtitleId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subtitleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "subtitleModel",
+        "Type": "project6._1Api.Model.Subtitles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.SubtitleController",
+    "Method": "Delete",
+    "RelativePath": "api/Subtitle/{subtitleId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subtitleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "project6._1Api.Controllers.TransactionController",
     "Method": "GetAll",
     "RelativePath": "api/Transaction",
@@ -725,6 +894,144 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchHistoryController",
+    "Method": "Create",
+    "RelativePath": "api/WatchHistory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historyModel",
+        "Type": "project6._1Api.Model.WatchHistory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchHistoryController",
+    "Method": "Update",
+    "RelativePath": "api/WatchHistory/{historyId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "historyModel",
+        "Type": "project6._1Api.Model.WatchHistory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchHistoryController",
+    "Method": "Delete",
+    "RelativePath": "api/WatchHistory/{historyId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchHistoryController",
+    "Method": "GetByProfile",
+    "RelativePath": "api/WatchHistory/{profileId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchListController",
+    "Method": "Create",
+    "RelativePath": "api/WatchList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "watchListModel",
+        "Type": "project6._1Api.Model.WatchList",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchListController",
+    "Method": "Delete",
+    "RelativePath": "api/WatchList/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchListController",
+    "Method": "GetByProfile",
+    "RelativePath": "api/WatchList/{profileId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "project6._1Api.Controllers.WatchListController",
+    "Method": "UpdateWatchlistItem",
+    "RelativePath": "api/WatchList/{watchlistId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "watchlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "watchListModel",
+        "Type": "project6._1Api.Model.WatchList",
         "IsRequired": true
       }
     ],

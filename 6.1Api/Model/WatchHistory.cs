@@ -16,7 +16,7 @@ namespace project6._1Api.Model
         public DateTime watch_date { get; set; }
 
         [Required]
-        [Range(1, 86400)] // Max 24 hours in seconds
+        [Range(1, 86400)] 
         public int watch_duration { get; set; }
 
         [Required]

@@ -4,9 +4,11 @@ using project6._1Api.Entities;
 using project6._1Api.Model;
 using Microsoft.EntityFrameworkCore;
 using System.Data.SqlClient;
+using System.Data.Entity;
 
 [Route("api/[controller]")]
 [ApiController]
+//[Authorize]
 [Produces("application/json", "application/xml")]
 [Consumes("application/json", "application/xml")]
 public class ContentController : ControllerBase
@@ -21,8 +23,7 @@ public class ContentController : ControllerBase
     [HttpGet]
     public IActionResult GetAll()
     {
-        var contentItems = _context.Content
-            .AsNoTracking()
+        var contentItems = Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking(_context.Content)
             .Select(c => new
             {
                 Content = c,
@@ -341,4 +342,64 @@ public class ContentController : ControllerBase
 
         return Ok(episodes);
     }
+
+
+    [HttpGet("{contentId}/Genres")]
+    public IActionResult GetContentGenres(int contentId)
+    {
+        var genres = _context.Content_Genre
+            .Where(cg => cg.content_id == contentId)
+            .Select(cg => new Genre
+            {
+                genre_id = cg.Genre.genre_id,
+                genre_name = cg.Genre.genre_name
+            })
+            .ToList();
+
+        return Ok(genres);
+    }
+
+    [HttpPost("{contentId}/Genres/{genreId}")]
+    public IActionResult AssignGenreToContent(int contentId, int genreId)
+    {
+        if (!_context.Content.Any(c => c.Content_id == contentId))
+            return BadRequest("Invalid content_id");
+
+        if (!_context.Genre.Any(g => g.genre_id == genreId))
+            return BadRequest("Invalid genre_id");
+
+        _context.Content_Genre.Add(new Content_Genre
+        {
+            content_id = contentId,
+            genre_id = genreId
+        });
+
+        try
+        {
+            _context.SaveChanges();
+            return CreatedAtAction(
+                nameof(GetContentGenres),
+                new { contentId = contentId },
+                new { content_id = contentId, genre_id = genreId });
+        }
+        catch (DbUpdateException)
+        {
+            return Conflict("This genre is already assigned to the content");
+        }
+    }
+
+    [HttpDelete("{contentId}/Genres/{genreId}")]
+    public IActionResult RemoveGenreFromContent(int contentId, int genreId)
+    {
+        var assignment = _context.Content_Genre
+            .FirstOrDefault(cg => cg.content_id == contentId && cg.genre_id == genreId);
+
+        if (assignment == null)
+            return NotFound();
+
+        _context.Content_Genre.Remove(assignment);
+        _context.SaveChanges();
+        return NoContent();
+    }
+
 }

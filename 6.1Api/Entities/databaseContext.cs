@@ -19,14 +19,15 @@ namespace project6._1Api.Entities
         public DbSet<Referrals> Referral { get; set; }
         public  DbSet<Profiles> Profile { get; set; }
         public  DbSet<Preferences> Preferences { get; set; }
-        public DbSet<ProfileGenrePreferences> ProfileGenrePreference { get; set; }
+        public DbSet<ProfileGenrePreferences> Profile_Genre_Preference { get; set; }
         public DbSet<Contents> Content { get; set; }
+        public DbSet<Content_Genre> Content_Genre { get; set; }
         public DbSet<Films> Film { get; set; }
         public DbSet<Series> Series { get; set; }
         public DbSet<Episodes> Episode { get; set; }
         public DbSet<Genres> Genre { get; set; }
-        public DbSet<WatchLists> WatchList { get; set; }
-        public DbSet<WatchHistories> WatchHistory { get; set; }
+        public DbSet<WatchLists> Watch_List { get; set; }
+        public DbSet<WatchHistories> Watch_History { get; set; }
         public DbSet<Subtitles> Subtitles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -34,6 +35,7 @@ namespace project6._1Api.Entities
             //modelBuilder.Entity<Transactions>()
             //    .ToTable(tb => tb.HasTrigger("CreateLog"));
             // User configuration
+
 
             modelBuilder.Entity<Users>(entity =>
             {
@@ -58,8 +60,18 @@ namespace project6._1Api.Entities
                     .OnDelete(DeleteBehavior.SetNull);
             });
 
-            // Profile configuration
-            modelBuilder.Entity<Profiles>(entity =>
+            // Content configuration
+            modelBuilder.Entity<Contents>(entity =>
+            {
+                entity.HasKey(e => e.Content_id);
+                entity.Property(e => e.Title).HasMaxLength(100).IsRequired();
+                entity.Property(e => e.Quality).HasMaxLength(10);
+                entity.Property(e => e.Classification).HasMaxLength(50);
+            });
+            
+        
+        // Profile configuration
+        modelBuilder.Entity<Profiles>(entity =>
             {
                 entity.HasKey(e => e.Profile_id);
                 entity.Property(e => e.Name).HasMaxLength(50).IsRequired();
@@ -84,14 +96,7 @@ namespace project6._1Api.Entities
                     .OnDelete(DeleteBehavior.Cascade);
             });
 
-            // Content configuration
-            modelBuilder.Entity<Contents>(entity =>
-            {
-                entity.HasKey(e => e.Content_id);
-                entity.Property(e => e.Title).HasMaxLength(100).IsRequired();
-                entity.Property(e => e.Quality).HasMaxLength(10);
-                entity.Property(e => e.Classification).HasMaxLength(50);
-            });
+         
 
             // Film configuration (inherits from Content)
             modelBuilder.Entity<Films>(entity =>
@@ -130,22 +135,39 @@ namespace project6._1Api.Entities
             // Genre configuration
             modelBuilder.Entity<Genres>(entity =>
             {
-                entity.HasKey(e => e.Genre_id);
-                entity.Property(e => e.Genre_name).HasMaxLength(50).IsRequired();
+                entity.HasKey(e => e.genre_id);
+                entity.Property(e => e.genre_name).HasMaxLength(50).IsRequired();
             });
 
-            // Profile-Genre many-to-many
+            modelBuilder.Entity<Content_Genre>(entity =>
+            {
+                // Composite primary key
+                entity.HasKey(cg => new { cg.content_id, cg.genre_id });
+
+                // Relationships
+                entity.HasOne(cg => cg.Content)
+                    .WithMany(c => c.ContentGenres)
+                    .HasForeignKey(cg => cg.content_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                entity.HasOne(cg => cg.Genre)
+                    .WithMany(g => g.ContentGenres)
+                    .HasForeignKey(cg => cg.genre_id)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
             modelBuilder.Entity<ProfileGenrePreferences>(entity =>
             {
                 entity.HasKey(pg => new { pg.Profile_id, pg.Genre_id });
 
-                entity.HasOne<Profiles>()
-                    .WithMany()
+
+                entity.HasOne(pg => pg.Profile)
+                    .WithMany(p => p.GenrePreferences)
                     .HasForeignKey(pg => pg.Profile_id)
                     .OnDelete(DeleteBehavior.Cascade);
 
-                entity.HasOne<Genres>()
-                    .WithMany()
+                entity.HasOne(pg => pg.Genre)
+                    .WithMany(g => g.ProfilePreferences)
                     .HasForeignKey(pg => pg.Genre_id)
                     .OnDelete(DeleteBehavior.Cascade);
             });
