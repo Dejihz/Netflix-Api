@@ -16,7 +16,6 @@ C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\preference_schema.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\profile_genre_preference_schema.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\referral_schema.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\role_schema.json
-C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\schemaValidation.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\series_schema.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\subscription_schema.json
 C:\Users\chris\Desktop\6.1Apis\bin\Debug\net9.0\Schemas\subtitle_schema.json

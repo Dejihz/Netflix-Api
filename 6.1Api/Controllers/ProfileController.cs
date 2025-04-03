@@ -127,39 +127,4 @@ public class ProfileController : ControllerBase
         }
     }
 
-    [HttpGet("{id}/preference")]
-    public IActionResult GetPreferenceByProfileId(int id)
-    {
-        var preference = _context.Preferences
-            .FirstOrDefault(p => p.Profile_id == id);
-
-        if (preference == null)
-            return NotFound();
-
-        return Ok(new project6._1Api.Model.Preferences
-        {
-            preferences_id = preference.Preferences_id,
-            profile_id = preference.Profile_id,
-            min_age = preference.Min_age,
-            content_restrictions = preference.Content_restrictions
-        });
-    }
-
-    [HttpGet("{id}/preferences")]
-    public IActionResult GetPreferencesByProfileId(int id)
-    {
-        var preferences = _context.Preferences
-            .Where(p => p.Profile_id == id)
-            .Select(p => new project6._1Api.Model.Preferences
-            {
-                preferences_id = p.Preferences_id,
-                profile_id = p.Profile_id,
-                min_age = p.Min_age,
-                content_restrictions = p.Content_restrictions
-            })
-            .ToList();
-
-        return preferences.Any() ? Ok(preferences) : NotFound();
-    }
-
 }

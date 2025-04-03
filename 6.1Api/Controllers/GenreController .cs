@@ -20,7 +20,7 @@ public class GenreController : ControllerBase
     }
 
     // GET: api/Genre
-    [HttpGet("")]
+    [HttpGet]
     public IActionResult GetAll()
     {
         var genres = _dbContext.Genre
@@ -34,8 +34,24 @@ public class GenreController : ControllerBase
         return genres.Any() ? Ok(genres) : NotFound();
     }
 
+    // GET: api/Genre/{id}
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id)
+    {
+        var genre = _dbContext.Genre
+            .Where(g => g.genre_id == id)
+            .Select(g => new Genres
+            {
+                genre_id = g.genre_id,
+                genre_name = g.genre_name
+            })
+            .FirstOrDefault();
+
+        return genre != null ? Ok(genre) : NotFound();
+    }
+
     // POST: api/Genre
-    [HttpPost("")]
+    [HttpPost]
     public IActionResult Create([FromBody] Genre genreModel)
     {
         if (!ModelState.IsValid) return BadRequest(ModelState);
@@ -49,7 +65,7 @@ public class GenreController : ControllerBase
         try
         {
             _dbContext.SaveChanges();
-            return StatusCode(201, "Genre created successfully.");
+            return StatusCode(201, new { message = "Genre created successfully.", genre = newGenre });
         }
         catch (DbUpdateException ex) when (ex.InnerException is SqlException sqlEx && sqlEx.Number == 2627)
         {
@@ -61,6 +77,32 @@ public class GenreController : ControllerBase
         }
     }
 
+    // PUT: api/Genre/{id}
+    [HttpPut("{id}")]
+    public IActionResult Update(int id, [FromBody] Genre genreModel)
+    {
+        if (!ModelState.IsValid) return BadRequest(ModelState);
+
+        var existingGenre = _dbContext.Genre.FirstOrDefault(g => g.genre_id == id);
+        if (existingGenre == null) return NotFound();
+
+        existingGenre.genre_name = genreModel.genre_name;
+
+        try
+        {
+            _dbContext.SaveChanges();
+            return Ok(new { message = "Genre updated successfully.", genre = existingGenre });
+        }
+        catch (DbUpdateException ex) when (ex.InnerException is SqlException sqlEx && sqlEx.Number == 2627)
+        {
+            return Conflict($"Genre '{genreModel.genre_name}' already exists.");
+        }
+        catch (Exception)
+        {
+            return StatusCode(500, "Error updating genre.");
+        }
+    }
+
     // DELETE: api/Genre/{id}
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
@@ -68,8 +110,15 @@ public class GenreController : ControllerBase
         var genre = _dbContext.Genre.FirstOrDefault(g => g.genre_id == id);
         if (genre == null) return NotFound();
 
-        _dbContext.Genre.Remove(genre);
-        _dbContext.SaveChanges();
-        return Ok("Genre deleted successfully.");
+        try
+        {
+            _dbContext.Genre.Remove(genre);
+            _dbContext.SaveChanges();
+            return Ok(new { message = "Genre deleted successfully." });
+        }
+        catch (Exception)
+        {
+            return StatusCode(500, "Error deleting genre.");
+        }
     }
 }

@@ -12,7 +12,6 @@ namespace project6._1Api.Entities
         {
         }
 
-        public DbSet<Transactions> Transaction { get; set; }
         public DbSet<Users> User { get; set; }
         public DbSet<Subscriptions> Subscription { get; set; }
         public DbSet<Roles> Role { get; set; }

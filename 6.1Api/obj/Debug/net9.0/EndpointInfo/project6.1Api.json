@@ -120,14 +120,116 @@
         }
       }
     },
-    "/api/Content/{contentId}/episodes": {
-      "post": {
+    "/api/ContentGenre/{contentId}": {
+      "get": {
         "tags": [
-          "Content"
+          "ContentGenre"
         ],
         "parameters": [
           {
             "name": "contentId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ContentGenre": {
+      "post": {
+        "tags": [
+          "ContentGenre"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ContentGenreModel"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/ContentGenreModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ContentGenre/{contentId}/{genreId}": {
+      "delete": {
+        "tags": [
+          "ContentGenre"
+        ],
+        "parameters": [
+          {
+            "name": "contentId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "genreId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Episode/{episodeId}": {
+      "get": {
+        "tags": [
+          "Episode"
+        ],
+        "parameters": [
+          {
+            "name": "episodeId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Episode"
+        ],
+        "parameters": [
+          {
+            "name": "episodeId",
             "in": "path",
             "required": true,
             "schema": {
@@ -156,98 +258,13 @@
           }
         }
       },
-      "get": {
-        "tags": [
-          "Content"
-        ],
-        "parameters": [
-          {
-            "name": "contentId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Content/{contentId}/Genres": {
-      "get": {
-        "tags": [
-          "Content"
-        ],
-        "parameters": [
-          {
-            "name": "contentId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Content/{contentId}/Genres/{genreId}": {
-      "post": {
-        "tags": [
-          "Content"
-        ],
-        "parameters": [
-          {
-            "name": "contentId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "genreId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
       "delete": {
         "tags": [
-          "Content"
+          "Episode"
         ],
         "parameters": [
           {
-            "name": "contentId",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "genreId",
+            "name": "episodeId",
             "in": "path",
             "required": true,
             "schema": {
@@ -256,6 +273,32 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Episode": {
+      "post": {
+        "tags": [
+          "Episode"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Episode"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Episode"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -300,6 +343,62 @@
       }
     },
     "/api/Genre/{id}": {
+      "get": {
+        "tags": [
+          "Genre"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Genre"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Genre"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "delete": {
         "tags": [
           "Genre"
@@ -469,6 +568,16 @@
       }
     },
     "/api/Preference": {
+      "get": {
+        "tags": [
+          "Preference"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "post": {
         "tags": [
           "Preference"
@@ -495,6 +604,27 @@
       }
     },
     "/api/Preference/{id}": {
+      "get": {
+        "tags": [
+          "Preference"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "put": {
         "tags": [
           "Preference"
@@ -646,52 +776,6 @@
         }
       },
       "delete": {
-        "tags": [
-          "Profile"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Profile/{id}/preference": {
-      "get": {
-        "tags": [
-          "Profile"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Profile/{id}/preferences": {
-      "get": {
         "tags": [
           "Profile"
         ],
@@ -1165,118 +1249,6 @@
         }
       }
     },
-    "/api/Transaction": {
-      "get": {
-        "tags": [
-          "Transaction"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "post": {
-        "tags": [
-          "Transaction"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Transaction"
-              }
-            },
-            "application/xml": {
-              "schema": {
-                "$ref": "#/components/schemas/Transaction"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Transaction/{id}": {
-      "get": {
-        "tags": [
-          "Transaction"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "Transaction"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Transaction"
-              }
-            },
-            "application/xml": {
-              "schema": {
-                "$ref": "#/components/schemas/Transaction"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "delete": {
-        "tags": [
-          "Transaction"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/User": {
       "get": {
         "tags": [
@@ -1663,6 +1635,20 @@
         },
         "additionalProperties": false
       },
+      "ContentGenreModel": {
+        "type": "object",
+        "properties": {
+          "content_id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "genre_id": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "ContentUpdateModel": {
         "required": [
           "title",
@@ -1996,95 +1982,6 @@
             "maxLength": 20,
             "minLength": 0,
             "type": "string"
-          }
-        },
-        "additionalProperties": false
-      },
-      "Transaction": {
-        "required": [
-          "account",
-          "category",
-          "closingAvailableBalance",
-          "closingBalance",
-          "debitCredit",
-          "forwardAvailableBalance",
-          "openingBalance",
-          "sequenceNumber",
-          "statementNumber",
-          "transactionDate",
-          "transactionReference"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "nullable": true
-          },
-          "user_id": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
-          "account": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "closingAvailableBalance": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "closingBalance": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "customDescription": {
-            "maxLength": 50,
-            "type": "string",
-            "nullable": true
-          },
-          "forwardAvailableBalance": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "openingBalance": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "relatedMessage": {
-            "type": "string",
-            "nullable": true
-          },
-          "sequenceNumber": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "statementNumber": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "transactionReference": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "transactionDate": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "category": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "debitCredit": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "date_of_transaction": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false

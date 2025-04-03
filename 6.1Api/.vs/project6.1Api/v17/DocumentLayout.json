@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\6.1Apis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\contentgenrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\contentgenrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\genrecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\genrecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\preferencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\preferencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\content_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\content_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\model\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:model\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\contentgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\contentgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\watchhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\watchhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,22 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\watchhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\watchhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|c:\\users\\chris\\desktop\\6.1apis\\entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B10886C2-6E70-4A82-A975-216B0D4CBD99}|project6.1Api.csproj|solutionrelative:entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "databaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
-              "RelativeDocumentMoniker": "Entities\\databaseContext.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
-              "RelativeToolTip": "Entities\\databaseContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T20:19:29.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WatchListController .cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchListController .cs",
-              "RelativeDocumentMoniker": "Controllers\\WatchListController .cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchListController .cs",
-              "RelativeToolTip": "Controllers\\WatchListController .cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwE8AAAAdAAAAAAAAAA==",
+              "Title": "db.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\db.cs",
+              "RelativeDocumentMoniker": "db.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\db.cs",
+              "RelativeToolTip": "db.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:34:59.97Z",
+              "WhenOpened": "2025-04-03T21:30:36.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Controllers\\TransactionController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ContentGenreController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ContentGenreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentGenreController.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ContentGenreController.cs",
+              "RelativeToolTip": "Controllers\\ContentGenreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T19:56:34.132Z",
+              "WhenOpened": "2025-04-03T20:43:19.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -94,20 +121,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Genres.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Genres.cs",
+              "RelativeDocumentMoniker": "Entities\\Genres.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Genres.cs",
+              "RelativeToolTip": "Entities\\Genres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:48:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Content_Genre.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Content_Genre.cs",
+              "RelativeDocumentMoniker": "Entities\\Content_Genre.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Content_Genre.cs",
+              "RelativeToolTip": "Entities\\Content_Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:42:45.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "Controllers\\ContentController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAmwO0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:34:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreController .cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\GenreController .cs",
+              "RelativeDocumentMoniker": "Controllers\\GenreController .cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\GenreController .cs",
+              "RelativeToolTip": "Controllers\\GenreController .cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:32:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "databaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
+              "RelativeDocumentMoniker": "Entities\\databaseContext.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\databaseContext.cs",
+              "RelativeToolTip": "Entities\\databaseContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA6wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:19:29.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:11:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Episodes.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Episodes.cs",
+              "RelativeDocumentMoniker": "Entities\\Episodes.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Episodes.cs",
+              "RelativeToolTip": "Entities\\Episodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:42:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EpisodeController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\EpisodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EpisodeController.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\EpisodeController.cs",
+              "RelativeToolTip": "Controllers\\EpisodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:00:57.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreferenceController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\PreferenceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PreferenceController.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\PreferenceController.cs",
+              "RelativeToolTip": "Controllers\\PreferenceController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:03:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContentGenre.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\ContentGenre.cs",
+              "RelativeDocumentMoniker": "Entities\\ContentGenre.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\ContentGenre.cs",
+              "RelativeToolTip": "Entities\\ContentGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:44:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Model\\Episode.cs",
+              "RelativeDocumentMoniker": "Model\\Episode.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Model\\Episode.cs",
+              "RelativeToolTip": "Model\\Episode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:50:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WatchListController .cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchListController .cs",
+              "RelativeDocumentMoniker": "Controllers\\WatchListController .cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchListController .cs",
+              "RelativeToolTip": "Controllers\\WatchListController .cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:34:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "WatchHistoryController.cs",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchHistoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\WatchHistoryController.cs",
               "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Controllers\\WatchHistoryController.cs",
               "RelativeToolTip": "Controllers\\WatchHistoryController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwDsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T18:59:21.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "WatchHistories.cs",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\WatchHistories.cs",
               "RelativeDocumentMoniker": "Entities\\WatchHistories.cs",
@@ -116,19 +299,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T18:59:18.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Genres.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Genres.cs",
-              "RelativeDocumentMoniker": "Entities\\Genres.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\6.1Apis\\Entities\\Genres.cs",
-              "RelativeToolTip": "Entities\\Genres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:48:11.029Z",
               "EditorCaption": ""
             }
           ]

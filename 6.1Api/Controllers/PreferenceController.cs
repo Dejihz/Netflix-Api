@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 
 [Route("api/[controller]")]
 [ApiController]
-[Authorize]
+//[Authorize]
 [Produces("application/json", "application/xml")]
 [Consumes("application/json", "application/xml")]
 public class PreferenceController : ControllerBase
@@ -19,24 +19,43 @@ public class PreferenceController : ControllerBase
         _context = context;
     }
 
-    
-    public IActionResult GetByProfile(int profileId)
+    // GET: api/Preference
+    [HttpGet]
+    public IActionResult GetAll()
     {
-        var preference = _context.Preferences
-            .FirstOrDefault(p => p.Profile_id == profileId);
+        var preferences = _context.Preferences
+            .Select(p => new project6._1Api.Model.Preferences
+            {
+                preferences_id = p.Preferences_id,
+                profile_id = p.Profile_id,
+                min_age = p.Min_age,
+                content_restrictions = p.Content_restrictions
+            })
+            .ToList();
 
-        if (preference == null)
-            return NotFound();
-
-        return Ok(new project6._1Api.Model.Preferences
-        {
-            preferences_id = preference.Preferences_id,
-            profile_id = preference.Profile_id,
-            min_age = preference.Min_age,
-            content_restrictions = preference.Content_restrictions
-        });
+        return preferences.Any() ? Ok(preferences) : NotFound();
     }
 
+    // GET: api/Preference/{id}
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id)
+    {
+        var preference = _context.Preferences
+            .Where(p => p.Preferences_id == id)
+            .Select(p => new project6._1Api.Model.Preferences
+            {
+                preferences_id = p.Preferences_id,
+                profile_id = p.Profile_id,
+                min_age = p.Min_age,
+                content_restrictions = p.Content_restrictions
+            })
+            .FirstOrDefault();
+
+        return preference != null ? Ok(preference) : NotFound();
+    }
+
+
+    // POST: api/Preference
     [HttpPost]
     public IActionResult Create([FromBody] project6._1Api.Model.Preferences model)
     {
@@ -60,7 +79,7 @@ public class PreferenceController : ControllerBase
         try
         {
             _context.SaveChanges();
-            return CreatedAtAction(nameof(GetByProfile), new { profileId = entity.Profile_id }, new project6._1Api.Model.Preferences
+            return CreatedAtAction(nameof(GetById), new { id = entity.Preferences_id }, new project6._1Api.Model.Preferences
             {
                 preferences_id = entity.Preferences_id,
                 profile_id = entity.Profile_id,
@@ -78,6 +97,7 @@ public class PreferenceController : ControllerBase
         }
     }
 
+    // PUT: api/Preference/{id}
     [HttpPut("{id}")]
     public IActionResult Update(int id, [FromBody] project6._1Api.Model.Preferences model)
     {
@@ -95,7 +115,17 @@ public class PreferenceController : ControllerBase
         try
         {
             _context.SaveChanges();
-            return Ok("Preference updated successfully");
+            return Ok(new
+            {
+                message = "Preference updated successfully",
+                preference = new project6._1Api.Model.Preferences
+                {
+                    preferences_id = entity.Preferences_id,
+                    profile_id = entity.Profile_id,
+                    min_age = entity.Min_age,
+                    content_restrictions = entity.Content_restrictions
+                }
+            });
         }
         catch (DbUpdateException)
         {
@@ -103,6 +133,7 @@ public class PreferenceController : ControllerBase
         }
     }
 
+    // DELETE: api/Preference/{id}
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
     {
@@ -114,27 +145,11 @@ public class PreferenceController : ControllerBase
         {
             _context.Preferences.Remove(entity);
             _context.SaveChanges();
-            return Ok("Preference deleted successfully");
+            return Ok(new { message = $"Preference with ID {id} deleted successfully" });
         }
         catch (DbUpdateException)
         {
             return StatusCode(500, "Error deleting preference");
         }
-    }
-
-    public IActionResult GetPreferencesByProfile(int profileId)
-    {
-        var preferences = _context.Preferences
-            .Where(p => p.Profile_id == profileId)
-            .Select(p => new project6._1Api.Model.Preferences
-            {
-                preferences_id = p.Preferences_id,
-                profile_id = p.Profile_id,
-                min_age = p.Min_age,
-                content_restrictions = p.Content_restrictions
-            })
-            .ToList();
-
-        return preferences.Any() ? Ok(preferences) : NotFound();
     }
 }
