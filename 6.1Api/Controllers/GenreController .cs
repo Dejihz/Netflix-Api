@@ -19,6 +19,7 @@ public class GenreController : ControllerBase
         _dbContext = dbContext;
     }
 
+    
     // GET: api/Genre
     [HttpGet("")]
     public IActionResult GetAll()

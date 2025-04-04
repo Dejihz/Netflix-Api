@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "Fv1FsC2gB81OJVJjKb/LVerZQotLfjwW3dds13AyVOk=",
+  "Hash": "s992XK4pv4cgon7RK72Nb8PRe2tbMMuBcovMOZ7/FTU=",
   "Source": "project6.1Api",
   "BasePath": "_content/project6.1Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "project6.1Api\\wwwroot",
+      "Source": "project6.1Api",
+      "ContentRoot": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\",
+      "BasePath": "_content/project6.1Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\2l26b2clur-b6thizhx3t.gz",
+      "SourceId": "project6.1Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/project6.1Api",
+      "RelativePath": "index#[.{fingerprint=b6thizhx3t}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8ewj98tx1e",
+      "Integrity": "QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\index.html",
+      "SourceId": "project6.1Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\",
+      "BasePath": "_content/project6.1Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b6thizhx3t",
+      "Integrity": "87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.b6thizhx3t.html",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\2l26b2clur-b6thizhx3t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000925069380"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1080"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6thizhx3t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.b6thizhx3t.html",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6thizhx3t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.b6thizhx3t.html.gz",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\2l26b2clur-b6thizhx3t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6thizhx3t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\2l26b2clur-b6thizhx3t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000925069380"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1080"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-87sr7t1v8mBVgVjPuZHlSG85uPYahTJk3ilPVLM8SFY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\legno\\RiderProjects\\Netflix-Api\\6.1Api\\obj\\Debug\\net9.0\\compressed\\2l26b2clur-b6thizhx3t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 20:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPwxf7CWtaTqua+U5nDL3Eltk03fhBluu234M1gYfK4="
+        }
+      ]
+    }
+  ]
 }

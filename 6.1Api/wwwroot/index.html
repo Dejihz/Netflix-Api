@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>All Genres</title>
+    <style>
+        /* Basic reset and styling */
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #fafafa;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #error {
+            color: red;
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        table {
+            margin: 0 auto;
+            border-collapse: collapse;
+            min-width: 300px;
+        }
+
+        th, td {
+            border: 1px solid #aaa;
+            padding: 8px 12px;
+        }
+
+        th {
+            background-color: #ddd;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+<h1>Genres</h1>
+<div id="error"></div>
+<table id="genresTable">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Genre Name</th>
+    </tr>
+    </thead>
+    <tbody id="genresTbody">
+    </tbody>
+</table>
+
+<script>
+        
+    const apiUrl = "https://localhost:44371/api/Genre";
+
+    fetch(apiUrl)
+        .then((response) => {
+            // Check the status code before parsing JSON
+            if (response.ok) {
+                return response.json();
+            } else if (response.status === 404) {
+                throw new Error("No genres found (HTTP 404).");
+            } else {
+                throw new Error("Network response was not ok (status: " + response.status + ")");
+            }
+        })
+        .then((data) => {
+            const tbody = document.getElementById("genresTbody");
+            const errorDiv = document.getElementById("error");
+
+            // data should be an array if it's a 200 OK
+            if (!Array.isArray(data) || data.length === 0) {
+                
+                // If the array is empty, show a message
+                errorDiv.textContent = "No genres found.";
+                return;
+            }
+
+            // Populate the table
+            data.forEach((genre) => {
+                const row = document.createElement("tr");
+
+                // Genre ID cell
+                const idCell = document.createElement("td");
+                idCell.textContent = genre.genre_id;
+
+                // Genre Name cell
+                const nameCell = document.createElement("td");
+                nameCell.textContent = genre.genre_name;
+
+                // Assemble the row
+                row.appendChild(idCell);
+                row.appendChild(nameCell);
+                tbody.appendChild(row);
+            });
+        })
+        .catch((error) => {
+            document.getElementById("error").textContent =
+                "Error fetching genres: " + error.message;
+        });
+</script>
+</body>
+</html>
