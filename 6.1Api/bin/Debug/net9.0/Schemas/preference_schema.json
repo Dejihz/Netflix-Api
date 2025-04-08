@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {
+        "Preference": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "preferences_id": {
+                    "type": "integer"
+                },
+                "profile_id": {
+                    "type": "integer"
+                },
+                "min_age": {
+                    "type": [ "integer", "null" ],
+                    "minimum": 0,
+                    "maximum": 21
+                },
+                "content_restrictions": {
+                    "type": [ "string", "null" ],
+                    "maxLength": 500
+                }
+            },
+            "required": [
+                "profile_id"
+            ],
+            "title": "Preference"
+        }
+    }
+}

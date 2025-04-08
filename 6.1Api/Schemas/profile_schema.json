@@ -1,0 +1,38 @@
+﻿//{
+//    "$schema": "http://json-schema.org/draft-06/schema#",
+//    "definitions": {
+//        "Profile": {
+//            "type": "object",
+//            "additionalProperties": false,
+//            "properties": {
+//                "profile_id": {
+//                    "type": "integer"
+//                },
+//                "user_id": {
+//                    "type": [ "integer", "null" ]
+//                },
+//                "name": {
+//                    "type": "string",
+//                    "maxLength": 50
+//                },
+//                "profile_photo": {
+//                    "type": [ "string", "null" ],
+//                    "maxLength": 255
+//                },
+//                "age": {
+//                    "type": [ "integer", "null" ],
+//                    "minimum": 0
+//                },
+//                "language": {
+//                    "type": "string",
+//                    "maxLength": 20,
+//                    "default": "English"
+//                }
+//            },
+//            "required": [
+//                "profile_id",
+//                "name"
+//            ]
+//        }
+//    }
+//}
